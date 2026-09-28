@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a website to allow users to quickly create routes based on milage!<br>🌱 Studying computer science!<br>
+<br>Studying computer science!<br>
 
 
 ## 🌐 Socials:
