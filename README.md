@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Studying computer science!<br>
+<br>Studying Information Engineering!<br>
 
 
 ## 🌐 Socials:
